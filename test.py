@@ -7,5 +7,3 @@ def integer_number():
             False
         # return num
     return num_list
-
-print(integer_number())
